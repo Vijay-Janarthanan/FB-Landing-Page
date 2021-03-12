@@ -80,7 +80,6 @@ a {
 }
 
 .info {
-    text-align: center;
     font-size: 13px;
 }
 
@@ -115,12 +114,7 @@ a {
     .create-btn {
         margin-left: 0%;
     }
-
-    .info {
-        text-align: center;
-        margin-left: 0%;
-    }
-
+    
     .frm {
         margin: 0% 15%;
     }
